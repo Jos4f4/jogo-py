@@ -200,9 +200,10 @@ def main():
         for passaro in passaros:
             passaro.mover()
         chao.mover()
-
+      
         adicionar_cano = False
-        remover_canos = []
+        remover_canos = [] 
+
         for cano in canos:
             for i, passaro in enumerate(passaros):
                 if cano.colidir(passaro):
