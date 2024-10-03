@@ -1,3 +1,3 @@
 # projeto-jogo-py
- hashtag_treinamentos
- biblioteca: pygame
+- hashtag_treinamentos
+- biblioteca: pygame
